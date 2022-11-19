@@ -1,0 +1,30 @@
+.title {
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Monaco", monospace;
+}
+
+.links {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Courier New", serif;
+  color: black;
+  font-weight: bold;
+}
+
+.homepage-image {
+  width: 350px;
+  height: auto;
+}
+
+.page-image {
+  width: auto;
+  height: 600px;
+}
+
+.slogan {
+  font-family: "Brush Script MT";
+  font-size: 30px;
+  text-align: center;
+}
